@@ -1,0 +1,23 @@
+.cart{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    padding: 10px;
+    height: max-content;
+}
+.ad-image{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.cart-title{
+    margin-right: 10px;
+    padding: 10px;
+    margin: 5px 0px;
+    border-bottom: 1px solid lightgrey;
+}
+.text-info{
+    display: flex;
+    align-items: center;
+    width: 700px;
+}

@@ -1,0 +1,29 @@
+.sub-total{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 280px;
+    height: 130px;
+    padding: 20px;
+    background-color: #f3f3f3;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
+.gift{
+    display: flex;
+    align-items: center;
+}
+.gift > input{
+    margin-right: 5px;
+}
+.btn{
+    background: #f0c14b;
+    border-radius: 3px;
+    width: 260px;
+    height: 30px;
+    border: 1px solid;
+    margin: 10px 10px -5px 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: black;
+}
